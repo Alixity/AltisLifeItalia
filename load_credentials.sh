@@ -10,7 +10,7 @@ RESETC="\033[m"
 
 if [ $# -eq 0 ]
 then
-    WORKDIR=/home/dark/arma/server/AltisLifeItalia
+    WORKDIR=/home/alixity/server
 else
     WORKDIR=$1
 fi

@@ -2,13 +2,13 @@
 
 if [ $# -eq 0 ]
 then
-    WORKDIR=/home/dark/arma/server/AltisLifeItalia
+    WORKDIR=/home/alixity/server
 else
     WORKDIR=$1
 fi
 
 cd $WORKDIR
-./arma3server -port=2302 "-config=config.cfg" \
+./arma3 -port=2302 "-config=config.cfg" \
     "-cfg=basic.cfg" \
     "-bepath=${WORKDIR}/battleye" \
     "-profiles=${WORKDIR}/profiles" \
