@@ -1,0 +1,128 @@
+﻿ 7:00:18 BattlEye Server: Initialized (v1.220, Arma 3 2.10.149954)
+ 7:00:18 Game Port: 2302, Steam Query Port: 2303
+ 7:00:18 Mission life.altis read from bank.
+ 7:00:18 Host identity created.
+ 7:00:18 BattlEye Server: Config entry: RConPassword BUSILY9cheesy2yodel
+ 7:00:18 BattlEye Server: Config entry: RConPort 2307
+ 7:00:18 Roles assigned.
+ 7:00:18 Reading mission ...
+ 7:00:34 Mission read.
+ 7:00:34 Game started.
+ 7:30:37 Thomas Smith uses modified data file
+ 7:30:38 BattlEye Server: Player #0 Thomas Smith (93.49.6.136:2304) connected
+ 7:30:38 Player Thomas Smith connecting.
+ 7:30:38 BattlEye Server: Connected to BE Master
+ 7:30:40 BattlEye Server: Player #0 Thomas Smith - BE GUID: aaa4c157ed823dfcf891b96cc548799a
+ 7:30:41 Player Thomas Smith connected (id=76561198168979244).
+ 7:30:41 BattlEye Server: Verified GUID (aaa4c157ed823dfcf891b96cc548799a) of player #0 Thomas Smith
+ 7:55:37 Олег uses modified data file
+ 7:55:37 BattlEye Server: Player #1 Олег (46.211.236.9:4760) connected
+ 7:55:37 Player Олег connecting.
+ 7:55:39 BattlEye Server: Player #1 Олег - BE GUID: f8ad8c18b29a3d20e01b049f27b4471a
+ 7:55:39 Player Олег connected (id=76561199369575664).
+ 7:55:39 BattlEye Server: Verified GUID (f8ad8c18b29a3d20e01b049f27b4471a) of player #1 Олег
+ 7:55:41 Files D:\SteamLibrary\steamapps\common\Arma 3\!Workshop\@Rocket Life\addons\101_editor.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+ 7:55:41 Player Олег disconnected.
+ 7:55:41 BattlEye Server: Player #1 Олег disconnected
+ 8:02:24 Player Thomas Smith disconnected.
+ 8:02:24 BattlEye Server: Player #0 Thomas Smith disconnected
+ 8:23:25 LapoPisciaduro uses modified data file
+ 8:23:25 BattlEye Server: Player #0 LapoPisciaduro (130.25.243.20:2304) connected
+ 8:23:25 Player LapoPisciaduro connecting.
+ 8:23:27 BattlEye Server: Player #0 LapoPisciaduro - BE GUID: 0909ae27a3d22940680172331d29dc92
+ 8:23:27 Player LapoPisciaduro connected (id=76561198036612422).
+ 8:23:27 BattlEye Server: Verified GUID (0909ae27a3d22940680172331d29dc92) of player #0 LapoPisciaduro
+ 8:53:00 Player LapoPisciaduro disconnected.
+ 8:53:00 BattlEye Server: Player #0 LapoPisciaduro disconnected
+ 9:12:16 LapoPisciaduro uses modified data file
+ 9:12:16 BattlEye Server: Player #0 LapoPisciaduro (130.25.243.20:2304) connected
+ 9:12:16 Player LapoPisciaduro connecting.
+ 9:12:17 BattlEye Server: Player #0 LapoPisciaduro - BE GUID: 0909ae27a3d22940680172331d29dc92
+ 9:12:18 Player LapoPisciaduro connected (id=76561198036612422).
+ 9:12:18 BattlEye Server: Verified GUID (0909ae27a3d22940680172331d29dc92) of player #0 LapoPisciaduro
+ 9:15:18 LOLLETTO uses modified data file
+ 9:15:18 BattlEye Server: Player #1 LOLLETTO (2.199.234.80:33495) connected
+ 9:15:18 Player LOLLETTO connecting.
+ 9:15:20 BattlEye Server: Player #1 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+ 9:15:20 Player LOLLETTO connected (id=76561198834471725).
+ 9:15:20 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #1 LOLLETTO
+ 9:16:16 Player LOLLETTO disconnected.
+ 9:16:16 BattlEye Server: Player #1 LOLLETTO disconnected
+ 9:29:55 LOLLETTO uses modified data file
+ 9:29:55 BattlEye Server: Player #1 LOLLETTO (2.199.234.80:34084) connected
+ 9:29:55 Player LOLLETTO connecting.
+ 9:29:57 BattlEye Server: Player #1 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+ 9:29:57 Player LOLLETTO connected (id=76561198834471725).
+ 9:29:57 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #1 LOLLETTO
+ 9:34:38 Player LOLLETTO disconnected.
+ 9:34:38 BattlEye Server: Player #1 LOLLETTO disconnected
+ 9:57:47 Player LapoPisciaduro disconnected.
+ 9:57:47 BattlEye Server: Player #0 LapoPisciaduro disconnected
+10:11:16 Ivan Santos uses modified data file
+10:11:16 BattlEye Server: Player #0 Ivan Santos (188.9.113.80:2304) connected
+10:11:16 Player Ivan Santos connecting.
+10:11:18 BattlEye Server: Player #0 Ivan Santos - BE GUID: bc8d1346d31d1dc3468e4abaa6c6e878
+10:11:18 Player Ivan Santos connected (id=76561198160586998).
+10:11:18 BattlEye Server: Verified GUID (bc8d1346d31d1dc3468e4abaa6c6e878) of player #0 Ivan Santos
+10:29:37 Psycho uses modified data file
+10:29:37 BattlEye Server: Player #1 Psycho (93.43.242.160:2304) connected
+10:29:37 Player Psycho connecting.
+10:29:38 BattlEye Server: Player #1 Psycho - BE GUID: b057d92f02ff9584f219623883a6345e
+10:29:39 Player Psycho connected (id=76561198053103016).
+10:29:39 BattlEye Server: Verified GUID (b057d92f02ff9584f219623883a6345e) of player #1 Psycho
+10:33:54 Player Psycho disconnected.
+10:33:54 BattlEye Server: Player #1 Psycho disconnected
+10:37:12 Player Ivan Santos disconnected.
+10:37:12 BattlEye Server: Player #0 Ivan Santos disconnected
+11:06:52 gioal uses modified data file
+11:06:52 BattlEye Server: Player #0 gioal (93.44.195.246:54264) connected
+11:06:52 Player gioal connecting.
+11:06:53 BattlEye Server: Player #0 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+11:06:54 Player gioal connected (id=76561198971992132).
+11:06:54 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #0 gioal
+11:16:52 BattlEye Server: RCon admin #0 (79.53.190.100:63068) logged in
+11:17:32 Gustavo Fringman uses modified data file
+11:17:32 BattlEye Server: Player #1 Gustavo Fringman (79.53.190.100:2304) connected
+11:17:32 Player Gustavo Fringman connecting.
+11:17:34 BattlEye Server: Player #1 Gustavo Fringman - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+11:17:34 Player Gustavo Fringman connected (id=76561198263498185).
+11:17:34 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #1 Gustavo Fringman
+11:28:27 Player gioal disconnected.
+11:28:27 BattlEye Server: Player #0 gioal disconnected
+11:58:24 LOLLETTO uses modified data file
+11:58:25 BattlEye Server: Player #2 LOLLETTO (2.199.234.80:33999) connected
+11:58:25 Player LOLLETTO connecting.
+11:58:26 BattlEye Server: Player #2 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+11:58:27 Player LOLLETTO connected (id=76561198834471725).
+11:58:27 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #2 LOLLETTO
+12:00:52 Antonio Giordano uses modified data file
+12:00:52 BattlEye Server: Player #3 Antonio Giordano (93.148.110.47:45392) connected
+12:00:52 Player Antonio Giordano connecting.
+12:00:54 BattlEye Server: Player #3 Antonio Giordano - BE GUID: 5c503672cd39945d2fad3a0a5fc589fe
+12:00:54 Player Antonio Giordano connected (id=76561199188736265).
+12:00:54 BattlEye Server: Verified GUID (5c503672cd39945d2fad3a0a5fc589fe) of player #3 Antonio Giordano
+12:24:48 gioal uses modified data file
+12:24:48 BattlEye Server: Player #4 gioal (93.44.195.246:54264) connected
+12:24:48 Player gioal connecting.
+12:24:49 BattlEye Server: Player #4 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+12:24:50 Player gioal connected (id=76561198971992132).
+12:24:50 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #4 gioal
+12:25:05 Player gioal disconnected.
+12:25:05 BattlEye Server: Player #4 gioal disconnected
+12:26:43 gioal uses modified data file
+12:26:43 BattlEye Server: Player #4 gioal (93.44.195.246:54264) connected
+12:26:43 Player gioal connecting.
+12:26:44 BattlEye Server: Player #4 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+12:26:45 Player gioal connected (id=76561198971992132).
+12:26:45 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #4 gioal
+12:27:15 markl uses modified data file
+12:27:15 BattlEye Server: Player #5 markl (95.237.20.95:2304) connected
+12:27:15 Player markl connecting.
+12:27:17 BattlEye Server: Player #5 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+12:27:18 Player markl connected (id=76561199028580374).
+12:27:18 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #5 markl
+12:27:49 Matthew Morris uses modified data file
+12:27:49 BattlEye Server: Player #6 Matthew Morris (185.156.194.51:2304) connected
+12:27:49 Player Matthew Morris connecting.
+12:27:52 BattlEye Server: Player #6 Matthew Morris - BE GUID: faffa79e7c4ce6546cb9c4a3fba57d42
+12:27:53 Player Matthew Morris co

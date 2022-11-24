@@ -1,0 +1,66 @@
+﻿13:00:16 BattlEye Server: Initialized (v1.220, Arma 3 2.10.149954)
+13:00:16 Game Port: 2302, Steam Query Port: 2303
+13:00:16 Mission life.altis read from bank.
+13:00:16 Host identity created.
+13:00:16 BattlEye Server: Config entry: RConPassword BUSILY9cheesy2yodel
+13:00:16 BattlEye Server: Config entry: RConPort 2307
+13:00:16 Roles assigned.
+13:00:16 Reading mission ...
+13:00:34 Mission read.
+13:00:34 Game started.
+15:01:49 James Holland uses modified data file
+15:01:49 BattlEye Server: Player #0 James Holland (93.38.66.167:59811) connected
+15:01:49 Player James Holland connecting.
+15:01:49 BattlEye Server: Connected to BE Master
+15:01:50 BattlEye Server: Player #0 James Holland - BE GUID: 931a75c43499e27211f4c36bd9d6b35a
+15:01:51 Player James Holland connected (id=76561198114313954).
+15:01:51 BattlEye Server: Verified GUID (931a75c43499e27211f4c36bd9d6b35a) of player #0 James Holland
+15:02:36 Alixity uses modified data file
+15:02:36 BattlEye Server: Player #1 Alixity (31.190.114.25:2304) connected
+15:02:36 Player Alixity connecting.
+15:02:38 BattlEye Server: Player #1 Alixity - BE GUID: 8bd6bebb1582aa564523b41af9bba3ea
+15:02:41 Player Alixity connected (id=76561198294782268).
+15:02:41 BattlEye Server: Verified GUID (8bd6bebb1582aa564523b41af9bba3ea) of player #1 Alixity
+15:04:28 Player Alixity is losing connection
+15:04:33 Player Alixity disconnected.
+15:04:33 BattlEye Server: Player #1 Alixity disconnected
+15:06:59 Alixity uses modified data file
+15:06:59 BattlEye Server: Player #1 Alixity (31.190.114.25:2304) connected
+15:06:59 Player Alixity connecting.
+15:07:01 BattlEye Server: Player #1 Alixity - BE GUID: 8bd6bebb1582aa564523b41af9bba3ea
+15:07:02 Player Alixity connected (id=76561198294782268).
+15:07:02 BattlEye Server: Verified GUID (8bd6bebb1582aa564523b41af9bba3ea) of player #1 Alixity
+15:09:34 Ivan Santos uses modified data file
+15:09:35 BattlEye Server: Player #2 Ivan Santos (188.9.113.80:2304) connected
+15:09:35 Player Ivan Santos connecting.
+15:09:36 BattlEye Server: Player #2 Ivan Santos - BE GUID: bc8d1346d31d1dc3468e4abaa6c6e878
+15:09:37 Player Ivan Santos connected (id=76561198160586998).
+15:09:37 BattlEye Server: Verified GUID (bc8d1346d31d1dc3468e4abaa6c6e878) of player #2 Ivan Santos
+15:14:36 Player Alixity is losing connection
+15:14:41 Player Alixity disconnected.
+15:14:41 BattlEye Server: Player #1 Alixity disconnected
+15:16:14 Alixity uses modified data file
+15:16:14 BattlEye Server: Player #3 Alixity (31.190.114.25:2304) connected
+15:16:14 Player Alixity connecting.
+15:16:15 BattlEye Server: Player #3 Alixity - BE GUID: 8bd6bebb1582aa564523b41af9bba3ea
+15:16:17 Player Alixity connected (id=76561198294782268).
+15:16:17 BattlEye Server: Verified GUID (8bd6bebb1582aa564523b41af9bba3ea) of player #3 Alixity
+15:17:51 MattiaPiffer uses modified data file
+15:17:51 BattlEye Server: Player #4 MattiaPiffer (79.22.176.229:2304) connected
+15:17:51 Player MattiaPiffer connecting.
+15:17:52 BattlEye Server: Player #4 MattiaPiffer - BE GUID: 427fbe974c3ce5e6af0ecfc120e99c7f
+15:17:52 Player MattiaPiffer connected (id=76561198281608511).
+15:17:52 BattlEye Server: Verified GUID (427fbe974c3ce5e6af0ecfc120e99c7f) of player #4 MattiaPiffer
+15:38:54 salle uses modified data file
+15:38:54 BattlEye Server: Player #5 salle (79.18.75.161:2304) connected
+15:38:54 Player salle connecting.
+15:38:56 BattlEye Server: Player #5 salle - BE GUID: 99120a6665bb0d3ef9abc265a1c5e68d
+15:38:57 Player salle connected (id=76561198027158370).
+15:38:57 BattlEye Server: Verified GUID (99120a6665bb0d3ef9abc265a1c5e68d) of player #5 salle
+15:38:58 Files C:\Program Files (x86)\Steam\steamapps\common\Arma 3\!Workshop\@ExileMod\addons\dbo_old_bike.pbo are not signed by a key accepted by this server. To play on this server, remove listed files or install additional accepted keys.
+15:38:58 Player salle disconnected.
+15:38:58 BattlEye Server: Player #5 salle disconnected
+15:39:22 salle uses modified data file
+15:39:22 BattlEye Server: Player #5 salle (79.18.75.161:2304) connected
+15:39:22 Player salle connecting.
+15:39:24 BattlEye Server: Player 

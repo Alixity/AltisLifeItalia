@@ -1,0 +1,767 @@
+﻿13:00:19 BattlEye Server: Initialized (v1.220, Arma 3 2.10.149954)
+13:00:19 Game Port: 2302, Steam Query Port: 2303
+13:00:19 Mission life.altis read from bank.
+13:00:19 Host identity created.
+13:00:19 BattlEye Server: Config entry: RConPassword BUSILY9cheesy2yodel
+13:00:19 BattlEye Server: Config entry: RConPort 2307
+13:00:19 Roles assigned.
+13:00:19 Reading mission ...
+13:00:28 BattlEye Server: RCon admin #0 (79.53.190.100:55321) logged in
+13:00:36 Mission read.
+13:00:36 Game started.
+13:01:13 gioal uses modified data file
+13:01:13 BattlEye Server: Player #0 gioal (93.44.195.246:54264) connected
+13:01:13 Player gioal connecting.
+13:01:13 BattlEye Server: Connected to BE Master
+13:01:14 BattlEye Server: Player #0 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:01:15 Player gioal connected (id=76561198971992132).
+13:01:15 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #0 gioal
+13:01:32 Player gioal disconnected.
+13:01:32 BattlEye Server: Player #0 gioal disconnected
+13:01:41 markl uses modified data file
+13:01:42 BattlEye Server: Player #0 markl (95.237.20.95:2304) connected
+13:01:42 Player markl connecting.
+13:01:43 BattlEye Server: Player #0 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:01:44 Player markl connected (id=76561199028580374).
+13:01:44 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #0 markl
+13:01:52 gioal uses modified data file
+13:01:52 BattlEye Server: Player #1 gioal (93.44.195.246:54264) connected
+13:01:52 Player gioal connecting.
+13:01:53 BattlEye Server: Player #1 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:01:54 Player gioal connected (id=76561198971992132).
+13:01:54 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #1 gioal
+13:02:04 Player markl disconnected.
+13:02:04 BattlEye Server: Player #0 markl disconnected
+13:02:09 markl uses modified data file
+13:02:10 BattlEye Server: Player #2 markl (95.237.20.95:2304) connected
+13:02:10 Player markl connecting.
+13:02:10 alexa uses modified data file
+13:02:11 BattlEye Server: Player #3 alexa (101.56.214.2:1839) connected
+13:02:11 Player alexa connecting.
+13:02:11 BattlEye Server: Player #2 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:02:12 Player markl connected (id=76561199028580374).
+13:02:12 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #2 markl
+13:02:12 BattlEye Server: Player #3 alexa - BE GUID: dbfd514d1360f96fa1020577e2675ddd
+13:02:13 Player alexa connected (id=76561198204764668).
+13:02:13 BattlEye Server: Verified GUID (dbfd514d1360f96fa1020577e2675ddd) of player #3 alexa
+13:02:15 Player gioal disconnected.
+13:02:15 BattlEye Server: Player #1 gioal disconnected
+13:02:37 Player markl disconnected.
+13:02:37 BattlEye Server: Player #2 markl disconnected
+13:02:40 gioal uses modified data file
+13:02:41 BattlEye Server: Player #4 gioal (93.44.195.246:54264) connected
+13:02:41 Player gioal connecting.
+13:02:41 markl uses modified data file
+13:02:41 BattlEye Server: Player #5 markl (95.237.20.95:2304) connected
+13:02:41 Player markl connecting.
+13:02:42 BattlEye Server: Player #4 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:02:42 Player gioal connected (id=76561198971992132).
+13:02:42 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #4 gioal
+13:02:43 BattlEye Server: Player #5 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:02:43 Player markl connected (id=76561199028580374).
+13:02:43 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #5 markl
+13:03:00 Player gioal disconnected.
+13:03:00 BattlEye Server: Player #4 gioal disconnected
+13:03:04 Player markl disconnected.
+13:03:04 BattlEye Server: Player #5 markl disconnected
+13:03:21 Matthew Morris uses modified data file
+13:03:21 BattlEye Server: Player #4 Matthew Morris (185.156.194.51:2304) connected
+13:03:21 Player Matthew Morris connecting.
+13:03:23 gioal uses modified data file
+13:03:24 BattlEye Server: Player #4 Matthew Morris - BE GUID: faffa79e7c4ce6546cb9c4a3fba57d42
+13:03:24 BattlEye Server: Player #5 gioal (93.44.195.246:54264) connected
+13:03:24 Player gioal connecting.
+13:03:24 Player Matthew Morris connected (id=76561198285531385).
+13:03:24 BattlEye Server: Verified GUID (faffa79e7c4ce6546cb9c4a3fba57d42) of player #4 Matthew Morris
+13:03:25 BattlEye Server: Player #5 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:03:25 Player gioal connected (id=76561198971992132).
+13:03:25 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #5 gioal
+13:03:33 markl uses modified data file
+13:03:34 BattlEye Server: Player #6 markl (95.237.20.95:2304) connected
+13:03:34 Player markl connecting.
+13:03:35 BattlEye Server: Player #6 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:03:35 Player markl connected (id=76561199028580374).
+13:03:35 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #6 markl
+13:03:45 Player gioal disconnected.
+13:03:45 BattlEye Server: Player #5 gioal disconnected
+13:03:56 Player markl disconnected.
+13:03:56 BattlEye Server: Player #6 markl disconnected
+13:04:24 LOLLETTO uses modified data file
+13:04:24 BattlEye Server: Player #5 LOLLETTO (2.199.234.80:33999) connected
+13:04:24 Player LOLLETTO connecting.
+13:04:25 BattlEye Server: Player #5 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+13:04:26 Player LOLLETTO connected (id=76561198834471725).
+13:04:26 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #5 LOLLETTO
+13:05:18 Player LOLLETTO disconnected.
+13:05:18 BattlEye Server: Player #5 LOLLETTO disconnected
+13:05:19 Gustavo Fringman uses modified data file
+13:05:19 BattlEye Server: Player #5 Gustavo Fringman (79.53.190.100:2304) connected
+13:05:19 Player Gustavo Fringman connecting.
+13:05:21 BattlEye Server: Player #5 Gustavo Fringman - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+13:05:21 Player Gustavo Fringman connected (id=76561198263498185).
+13:05:21 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #5 Gustavo Fringman
+13:05:35 Player Gustavo Fringman disconnected.
+13:05:35 BattlEye Server: Player #5 Gustavo Fringman disconnected
+13:08:04 LOLLETTO uses modified data file
+13:08:04 BattlEye Server: Player #5 LOLLETTO (2.199.234.80:33999) connected
+13:08:04 Player LOLLETTO connecting.
+13:08:06 BattlEye Server: Player #5 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+13:08:06 Player LOLLETTO connected (id=76561198834471725).
+13:08:06 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #5 LOLLETTO
+13:08:27 Player LOLLETTO disconnected.
+13:08:27 BattlEye Server: Player #5 LOLLETTO disconnected
+13:08:34 LOLLETTO uses modified data file
+13:08:34 BattlEye Server: Player #5 LOLLETTO (2.199.234.80:33999) connected
+13:08:34 Player LOLLETTO connecting.
+13:08:36 BattlEye Server: Player #5 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+13:08:36 Player LOLLETTO connected (id=76561198834471725).
+13:08:36 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #5 LOLLETTO
+13:08:59 Player LOLLETTO disconnected.
+13:08:59 BattlEye Server: Player #5 LOLLETTO disconnected
+13:10:06 AVale69 uses modified data file
+13:10:06 BattlEye Server: Player #5 AVale69 (101.58.214.45:2304) connected
+13:10:06 Player AVale69 connecting.
+13:10:07 BattlEye Server: Player #5 AVale69 - BE GUID: 460aa108782b99664048bb4cb597c71d
+13:10:08 Player AVale69 connected (id=76561198088387244).
+13:10:08 BattlEye Server: Verified GUID (460aa108782b99664048bb4cb597c71d) of player #5 AVale69
+13:10:26 LOLLETTO uses modified data file
+13:10:26 BattlEye Server: Player #6 LOLLETTO (2.199.234.80:33999) connected
+13:10:26 Player LOLLETTO connecting.
+13:10:28 BattlEye Server: Player #6 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+13:10:28 Player LOLLETTO connected (id=76561198834471725).
+13:10:28 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #6 LOLLETTO
+13:15:39 gioal uses modified data file
+13:15:39 BattlEye Server: Player #7 gioal (93.44.195.246:53803) connected
+13:15:39 Player gioal connecting.
+13:15:41 BattlEye Server: Player #7 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:15:41 Player gioal connected (id=76561198971992132).
+13:15:41 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #7 gioal
+13:17:32 Player gioal disconnected.
+13:17:32 BattlEye Server: Player #7 gioal disconnected
+13:21:04 gioal uses modified data file
+13:21:04 BattlEye Server: Player #7 gioal (93.44.195.246:53803) connected
+13:21:04 Player gioal connecting.
+13:21:05 BattlEye Server: Player #7 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:21:06 Player gioal connected (id=76561198971992132).
+13:21:06 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #7 gioal
+13:23:52 LapoPisciaduro uses modified data file
+13:23:52 BattlEye Server: Player #8 LapoPisciaduro (130.25.243.20:2304) connected
+13:23:52 Player LapoPisciaduro connecting.
+13:23:54 BattlEye Server: Player #8 LapoPisciaduro - BE GUID: 0909ae27a3d22940680172331d29dc92
+13:23:54 Player LapoPisciaduro connected (id=76561198036612422).
+13:23:54 BattlEye Server: Verified GUID (0909ae27a3d22940680172331d29dc92) of player #8 LapoPisciaduro
+13:24:03 Player LapoPisciaduro disconnected.
+13:24:03 BattlEye Server: Player #8 LapoPisciaduro disconnected
+13:24:26 Player gioal kicked off by BattlEye: Client not responding
+13:24:26 Player gioal disconnected.
+13:31:43 gioal uses modified data file
+13:31:43 BattlEye Server: Player #7 gioal (93.44.195.246:54122) connected
+13:31:43 Player gioal connecting.
+13:31:45 BattlEye Server: Player #7 gioal - BE GUID: 07d76b0829f6ef70525a657c9f78795b
+13:31:45 Player gioal connected (id=76561198971992132).
+13:31:45 BattlEye Server: Verified GUID (07d76b0829f6ef70525a657c9f78795b) of player #7 gioal
+13:48:23 markl uses modified data file
+13:48:23 BattlEye Server: Player #8 markl (95.237.20.95:2304) connected
+13:48:23 Player markl connecting.
+13:48:25 BattlEye Server: Player #8 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:48:25 Player markl connected (id=76561199028580374).
+13:48:25 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #8 markl
+13:48:47 Player markl disconnected.
+13:48:47 BattlEye Server: Player #8 markl disconnected
+13:48:56 markl uses modified data file
+13:48:56 BattlEye Server: Player #8 markl (95.237.20.95:2304) connected
+13:48:56 Player markl connecting.
+13:48:57 BattlEye Server: Player #8 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:48:58 Player markl connected (id=76561199028580374).
+13:48:58 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #8 markl
+13:49:15 Player markl disconnected.
+13:49:15 BattlEye Server: Player #8 markl disconnected
+13:51:46 markl uses modified data file
+13:51:46 BattlEye Server: Player #8 markl (95.237.20.95:2304) connected
+13:51:46 Player markl connecting.
+13:51:48 BattlEye Server: Player #8 markl - BE GUID: b95aa0c54e8f34826a4d7a37580cc733
+13:51:48 Player markl connected (id=76561199028580374).
+13:51:48 BattlEye Server: Verified GUID (b95aa0c54e8f34826a4d7a37580cc733) of player #8 markl
+14:01:12 Player LOLLETTO disconnected.
+14:01:12 BattlEye Server: Player #6 LOLLETTO disconnected
+14:03:23 BattlEye Server: RCon admin #1 (79.53.190.100:56910) logged in
+14:07:31 Player alexa is losing connection
+14:07:36 Player alexa disconnected.
+14:07:36 BattlEye Server: Player #3 alexa disconnected
+14:08:23 alexa uses modified data file
+14:08:23 BattlEye Server: Player #9 alexa (101.56.214.2:1839) connected
+14:08:23 Player alexa connecting.
+14:08:24 BattlEye Server: Player #9 alexa - BE GUID: dbfd514d1360f96fa1020577e2675ddd
+14:08:25 Player alexa connected (id=76561198204764668).
+14:08:25 BattlEye Server: Verified GUID (dbfd514d1360f96fa1020577e2675ddd) of player #9 alexa
+14:08:53 Mimmo La Rue uses modified data file
+14:08:53 BattlEye Server: Player #10 Mimmo La Rue (31.190.114.25:2304) connected
+14:08:53 Player Mimmo La Rue connecting.
+14:08:55 BattlEye Server: Player #10 Mimmo La Rue - BE GUID: 8bd6bebb1582aa564523b41af9bba3ea
+14:08:57 Player Mimmo La Rue connected (id=76561198294782268).
+14:08:57 BattlEye Server: Verified GUID (8bd6bebb1582aa564523b41af9bba3ea) of player #10 Mimmo La Rue
+14:10:39 James Holland uses modified data file
+14:10:39 BattlEye Server: Player #11 James Holland (93.38.65.227:18362) connected
+14:10:39 Player James Holland connecting.
+14:10:41 BattlEye Server: Player #11 James Holland - BE GUID: 931a75c43499e27211f4c36bd9d6b35a
+14:10:41 Player James Holland connected (id=76561198114313954).
+14:10:41 BattlEye Server: Verified GUID (931a75c43499e27211f4c36bd9d6b35a) of player #11 James Holland
+14:14:27 StitchLife uses modified data file
+14:14:27 BattlEye Server: Player #12 StitchLife (95.246.39.123:2304) connected
+14:14:27 Player StitchLife connecting.
+14:14:29 BattlEye Server: Player #12 StitchLife - BE GUID: 08a00827be9d55adda4acf5f2d0d08bc
+14:14:30 Player StitchLife connected (id=76561198030673345).
+14:14:30 BattlEye Server: Verified GUID (08a00827be9d55adda4acf5f2d0d08bc) of player #12 StitchLife
+14:16:19 Jotter uses modified data file
+14:16:19 BattlEye Server: Player #13 Jotter (5.94.129.165:2304) connected
+14:16:19 Player Jotter connecting.
+14:16:20 BattlEye Server: Player #13 Jotter - BE GUID: f52bd6a4a085691174e83db4579b6991
+14:16:32 Player Jotter connected (id=76561198141160415).
+14:16:32 BattlEye Server: Verified GUID (f52bd6a4a085691174e83db4579b6991) of player #13 Jotter
+14:40:11 Player gioal disconnected.
+14:40:11 BattlEye Server: Player #7 gioal disconnected
+14:42:23 Player markl disconnected.
+14:42:23 BattlEye Server: Player #8 markl disconnected
+14:59:09 Player James Holland disconnected.
+14:59:09 BattlEye Server: Player #11 James Holland disconnected
+15:15:20 John Alecx uses modified data file
+15:15:20 BattlEye Server: Player #14 John Alecx (79.42.70.40:2304) connected
+15:15:20 Player John Alecx connecting.
+15:15:22 BattlEye Server: Player #14 John Alecx - BE GUID: ca3b46d4bb4caec498d538e976271465
+15:15:22 Player John Alecx connected (id=76561198388786429).
+15:15:22 BattlEye Server: Verified GUID (ca3b46d4bb4caec498d538e976271465) of player #14 John Alecx
+15:17:14 Player StitchLife disconnected.
+15:17:14 BattlEye Server: Player #12 StitchLife disconnected
+15:20:53 BattlEye Server: RCon admin #0 (79.53.190.100:57910) logged in
+15:25:16 John Sasso uses modified data file
+15:25:16 BattlEye Server: Player #15 John Sasso (84.220.24.106:2304) connected
+15:25:16 Player John Sasso connecting.
+15:25:18 BattlEye Server: Player #15 John Sasso - BE GUID: f6e35f5f19cc067ce948e2de0caf28fa
+15:25:19 Player John Sasso connected (id=76561198840728201).
+15:25:19 BattlEye Server: Verified GUID (f6e35f5f19cc067ce948e2de0caf28fa) of player #15 John Sasso
+15:25:54 Gustavo Fringman uses modified data file
+15:25:54 BattlEye Server: Player #16 Gustavo Fringman (79.53.190.100:2304) connected
+15:25:54 Player Gustavo Fringman connecting.
+15:25:55 BattlEye Server: Player #16 Gustavo Fringman - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+15:25:56 Player Gustavo Fringman connected (id=76561198263498185).
+15:25:56 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #16 Gustavo Fringman
+15:26:01 StitchLife uses modified data file
+15:26:01 BattlEye Server: Player #17 StitchLife (95.246.39.123:2304) connected
+15:26:01 Player StitchLife connecting.
+15:26:02 BattlEye Server: Player #17 StitchLife - BE GUID: 08a00827be9d55adda4acf5f2d0d08bc
+15:26:03 Player StitchLife connected (id=76561198030673345).
+15:26:03 BattlEye Server: Verified GUID (08a00827be9d55adda4acf5f2d0d08bc) of player #17 StitchLife
+15:26:06 John Gabro uses modified data file
+15:26:06 BattlEye Server: Player #18 John Gabro (37.119.243.244:2304) connected
+15:26:06 Player John Gabro connecting.
+15:26:08 BattlEye Server: Player #18 John Gabro - BE GUID: 7eda23c55eb6f8b8b0ed5ee9ae472e1e
+15:26:08 Player John Gabro connected (id=76561198169092496).
+15:26:08 BattlEye Server: Verified GUID (7eda23c55eb6f8b8b0ed5ee9ae472e1e) of player #18 John Gabro
+15:26:24 Player Gustavo Fringman disconnected.
+15:26:24 BattlEye Server: Player #16 Gustavo Fringman disconnected
+15:26:32 Gustavo Fringman uses modified data file
+15:26:32 BattlEye Server: Player #19 Gustavo Fringman (79.53.190.100:2304) connected
+15:26:32 Player Gustavo Fringman connecting.
+15:26:33 BattlEye Server: Player #19 Gustavo Fringman - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+15:26:33 Player Gustavo Fringman connected (id=76561198263498185).
+15:26:33 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #19 Gustavo Fringman
+15:27:00 Player Gustavo Fringman disconnected.
+15:27:00 BattlEye Server: Player #19 Gustavo Fringman disconnected
+15:28:05 Gustavo Fringman uses modified data file
+15:28:05 BattlEye Server: Player #19 Gustavo Fringman (79.53.190.100:2304) connected
+15:28:05 Player Gustavo Fringman connecting.
+15:28:06 BattlEye Server: Player #19 Gustavo Fringman - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+15:28:07 Player Gustavo Fringman connected (id=76561198263498185).
+15:28:07 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #19 Gustavo Fringman
+15:31:39 Luvia uses modified data file
+15:31:39 BattlEye Server: Player #20 Luvia (130.25.105.115:2304) connected
+15:31:39 Player Luvia connecting.
+15:31:40 BattlEye Server: Player #20 Luvia - BE GUID: dfd21646807e3226af7bfcad1f8f122c
+15:31:40 Player Luvia connected (id=76561198019287264).
+15:31:40 BattlEye Server: Verified GUID (dfd21646807e3226af7bfcad1f8f122c) of player #20 Luvia
+15:32:04 Clown Jos uses modified data file
+15:32:04 BattlEye Server: Player #21 Clown Jos (82.55.183.99:53047) connected
+15:32:04 Player Clown Jos connecting.
+15:32:05 BattlEye Server: Player #21 Clown Jos - BE GUID: a064299e83a8d8e8a82d72f3d1d64f35
+15:32:06 Player Clown Jos connected (id=76561198030961867).
+15:32:06 BattlEye Server: Verified GUID (a064299e83a8d8e8a82d72f3d1d64f35) of player #21 Clown Jos
+15:39:18 BattlEye Server: RCon admin #0 (93.49.6.136:60644) logged in
+15:43:20 James Holland uses modified data file
+15:43:21 BattlEye Server: Player #22 James Holland (93.38.65.227:17947) connected
+15:43:21 Player James Holland connecting.
+15:43:22 BattlEye Server: Player #22 James Holland - BE GUID: 931a75c43499e27211f4c36bd9d6b35a
+15:43:22 Player James Holland connected (id=76561198114313954).
+15:43:22 BattlEye Server: Verified GUID (931a75c43499e27211f4c36bd9d6b35a) of player #22 James Holland
+15:43:25 Thomas Smith uses modified data file
+15:43:26 BattlEye Server: Player #23 Thomas Smith (93.49.6.136:2304) connected
+15:43:26 Player Thomas Smith connecting.
+15:43:28 BattlEye Server: Player #23 Thomas Smith - BE GUID: aaa4c157ed823dfcf891b96cc548799a
+15:43:30 Player James Holland disconnected.
+15:43:30 BattlEye Server: Player #22 James Holland disconnected
+15:43:39 Player Thomas Smith connected (id=76561198168979244).
+15:43:39 BattlEye Server: Verified GUID (aaa4c157ed823dfcf891b96cc548799a) of player #23 Thomas Smith
+15:43:57 Player alexa disconnected.
+15:43:57 BattlEye Server: Player #9 alexa disconnected
+15:44:24 BattlEye Server: RCon admin #1 (93.49.6.136:51673) logged in
+15:44:29 Player Matthew Morris disconnected.
+15:44:29 BattlEye Server: Player #4 Matthew Morris disconnected
+15:46:06 Peperonata Fresca uses modified data file
+15:46:06 BattlEye Server: Player #24 Peperonata Fresca (93.38.65.227:17947) connected
+15:46:06 Player Peperonata Fresca connecting.
+15:46:07 BattlEye Server: Player #24 Peperonata Fresca - BE GUID: 931a75c43499e27211f4c36bd9d6b35a
+15:46:08 Player Peperonata Fresca connected (id=76561198114313954).
+15:46:08 BattlEye Server: Verified GUID (931a75c43499e27211f4c36bd9d6b35a) of player #24 Peperonata Fresca
+15:53:33 BattlEye Server: (Group) AVale69: gia che ha detto sta cosa mi sta sul cazzo
+15:53:47 BattlEye Server: (Group) Jotter: idem
+16:03:08 Matt Johnson uses modified data file
+16:03:08 BattlEye Server: Player #25 Matt Johnson (79.23.56.49:56345) connected
+16:03:08 Player Matt Johnson connecting.
+16:03:09 BattlEye Server: Player #25 Matt Johnson - BE GUID: 331efbebec718a6f046de6ec42b23764
+16:03:10 Player Matt Johnson connected (id=76561198280064170).
+16:03:10 BattlEye Server: Verified GUID (331efbebec718a6f046de6ec42b23764) of player #25 Matt Johnson
+16:05:16 Player Peperonata Fresca disconnected.
+16:05:16 BattlEye Server: Player #24 Peperonata Fresca disconnected
+16:05:56 James Holland uses modified data file
+16:05:56 BattlEye Server: Player #26 James Holland (93.38.65.227:17947) connected
+16:05:56 Player James Holland connecting.
+16:05:58 BattlEye Server: Player #26 James Holland - BE GUID: 931a75c43499e27211f4c36bd9d6b35a
+16:05:59 Player James Holland connected (id=76561198114313954).
+16:05:59 BattlEye Server: Verified GUID (931a75c43499e27211f4c36bd9d6b35a) of player #26 James Holland
+16:07:05 Tommolo uses modified data file
+16:07:05 BattlEye Server: Player #27 Tommolo (151.34.141.227:58333) connected
+16:07:05 Player Tommolo connecting.
+16:07:10 BattlEye Server: Player #27 Tommolo - BE GUID: 356b7e7d92938b58734c1b010fc2e987
+16:07:10 Player Tommolo connected (id=76561198170008014).
+16:07:10 BattlEye Server: Verified GUID (356b7e7d92938b58734c1b010fc2e987) of player #27 Tommolo
+16:08:18 BattlEye Server: (Direct) James Holland: panca
+16:08:30 BattlEye Server: (Vehicle) James Holland: hai il fucile??
+16:08:50 BattlEye Server: (Vehicle) Matt Johnson: ho lo sting
+16:08:55 BattlEye Server: (Vehicle) James Holland: asp che forse entra coso
+16:09:06 BattlEye Server: (Vehicle) Matt Johnson: adam?
+16:09:27 BattlEye Server: (Vehicle) James Holland: boh
+16:09:34 BattlEye Server: (Vehicle) James Holland: yes
+16:09:50 BattlEye Server: (Vehicle) Matt Johnson: se entra adam semmai si può fare come ieri che io e lui stiamo a terra e tu e thomas andate in eli, poi è indifferente
+16:10:00 BattlEye Server: (Vehicle) James Holland: eh si infatti
+16:15:48 [Agente] Adam K! uses modified data file
+16:15:48 BattlEye Server: Player #28 [Agente] Adam K! (128.116.136.3:2304) connected
+16:15:48 Player [Agente] Adam K! connecting.
+16:15:50 BattlEye Server: Player #28 [Agente] Adam K! - BE GUID: 48fd8ff09cec81bd060f69ab3c375345
+16:15:50 Player [Agente] Adam K! connected (id=76561198202637044).
+16:15:50 BattlEye Server: Verified GUID (48fd8ff09cec81bd060f69ab3c375345) of player #28 [Agente] Adam K!
+16:15:51 Player [Agente] Adam K! disconnected.
+16:15:51 BattlEye Server: Player #28 [Agente] Adam K! disconnected
+16:17:24 Player Thomas Smith disconnected.
+16:17:24 BattlEye Server: Player #23 Thomas Smith disconnected
+16:17:28 onehy uses modified data file
+16:17:28 BattlEye Server: Player #28 onehy (109.117.206.243:2304) connected
+16:17:28 Player onehy connecting.
+16:17:32 BattlEye Server: Player #28 onehy - BE GUID: 6376a76ff14bc68a08a026aa012deda1
+16:17:32 Player onehy connected (id=76561199015946686).
+16:17:32 BattlEye Server: Verified GUID (6376a76ff14bc68a08a026aa012deda1) of player #28 onehy
+16:17:38 Thomas Smith uses modified data file
+16:17:38 BattlEye Server: Player #29 Thomas Smith (93.49.6.136:2304) connected
+16:17:38 Player Thomas Smith connecting.
+16:17:40 BattlEye Server: Player #29 Thomas Smith - BE GUID: aaa4c157ed823dfcf891b96cc548799a
+16:17:47 Player Thomas Smith connected (id=76561198168979244).
+16:17:47 BattlEye Server: Verified GUID (aaa4c157ed823dfcf891b96cc548799a) of player #29 Thomas Smith
+16:18:26 Sonny Clemenza uses modified data file
+16:18:26 BattlEye Server: Player #30 Sonny Clemenza (87.7.210.63:2304) connected
+16:18:26 Player Sonny Clemenza connecting.
+16:18:28 BattlEye Server: Player #30 Sonny Clemenza - BE GUID: 17e0fd07b4bd0b7081504b76bc2b8c28
+16:18:28 Player Sonny Clemenza connected (id=76561198142032626).
+16:18:28 BattlEye Server: Verified GUID (17e0fd07b4bd0b7081504b76bc2b8c28) of player #30 Sonny Clemenza
+16:18:54 dario uses modified data file
+16:18:54 BattlEye Server: Player #31 dario (95.229.101.165:2304) connected
+16:18:54 Player dario connecting.
+16:18:56 BattlEye Server: Player #31 dario - BE GUID: 90af34a5f78b6004a5e4657c28e36781
+16:18:56 Player dario connected (id=76561198167101205).
+16:18:56 BattlEye Server: Verified GUID (90af34a5f78b6004a5e4657c28e36781) of player #31 dario
+16:22:09 Player dario disconnected.
+16:22:09 BattlEye Server: Player #31 dario disconnected
+16:24:33 John Dick uses modified data file
+16:24:33 BattlEye Server: Player #31 John Dick (95.229.101.165:2304) connected
+16:24:33 Player John Dick connecting.
+16:24:35 BattlEye Server: Player #31 John Dick - BE GUID: 90af34a5f78b6004a5e4657c28e36781
+16:24:35 Player John Dick connected (id=76561198167101205).
+16:24:35 BattlEye Server: Verified GUID (90af34a5f78b6004a5e4657c28e36781) of player #31 John Dick
+16:30:51 BattlEye Server: (Direct) onehy: mi sente?
+16:31:20 BattlEye Server: (Direct) Luvia: NON LA SENTO
+16:31:26 BattlEye Server: (Direct) Luvia: scusa caps
+16:31:47 BattlEye Server: (Direct) onehy: mannaggia
+16:31:59 BattlEye Server: (Direct) Luvia: è ferito?
+16:32:15 BattlEye Server: (Direct) onehy: si
+16:32:29 BattlEye Server: (Direct) Luvia: contatto subito i medici
+16:33:54 BattlEye Server: (Direct) Luvia: Sì LA SENTO
+16:34:13 BattlEye Server: (Direct) Luvia: un bel mistero haha
+16:34:22 BattlEye Server: (Direct) Luvia: comunque ho contattato i medici
+16:34:35 BattlEye Server: (Direct) Luvia: si
+16:35:28 BattlEye Server: (Direct) Luvia: eh l'hatcback è difficile da guidare
+16:36:16 Player Thomas Smith disconnected.
+16:36:16 BattlEye Server: Player #29 Thomas Smith disconnected
+16:36:20 Player Clown Jos disconnected.
+16:36:20 BattlEye Server: Player #21 Clown Jos disconnected
+16:37:08 BattlEye Server: (Global) StitchLife: vicino pirgos c'e azione
+16:37:12 BattlEye Server: (Global) StitchLife: andate via
+16:38:03 BattlEye Server: (Global) StitchLife: John andate via e azione contro polizia
+16:38:13 BattlEye Server: (Global) John Gabro: si ce ne siamo andati
+16:38:19 BattlEye Server: (Global) StitchLife: grazie
+16:38:22 BattlEye Server: (Direct) Luvia: ma porca
+16:38:31 BattlEye Server: (Direct) Luvia: nessun medico online
+16:38:42 BattlEye Server: (Direct) Luvia: guardi la posso portare a kavala
+16:39:26 BattlEye Server: (Direct) Luvia: se non è grave allora apposto
+16:39:26 Tonygame uses modified data file
+16:39:27 BattlEye Server: Player #32 Tonygame (51.179.99.223:6183) connected
+16:39:27 Player Tonygame connecting.
+16:39:30 BattlEye Server: Player #32 Tonygame - BE GUID: ebf40f79d8ffcbf99b408cdce8ca5113
+16:39:30 Player Tonygame connected (id=76561198972769485).
+16:39:30 BattlEye Server: Verified GUID (ebf40f79d8ffcbf99b408cdce8ca5113) of player #32 Tonygame
+16:39:38 BattlEye Server: (Direct) Luvia: arrivederci
+16:39:56 BattlEye Server: (Global) AVale69: ù
+16:43:47 BattlEye Server: (Direct) James Holland: suca
+16:46:24 dangi uses modified data file
+16:46:25 BattlEye Server: Player #33 dangi (87.10.114.107:61866) connected
+16:46:25 Player dangi connecting.
+16:46:26 BattlEye Server: Player #33 dangi - BE GUID: 26ef16a15a444feb6896d5572dfef889
+16:46:40 Player dangi connected (id=76561198156945781).
+16:46:40 BattlEye Server: Verified GUID (26ef16a15a444feb6896d5572dfef889) of player #33 dangi
+16:46:46 Player dangi disconnected.
+16:46:46 BattlEye Server: Player #33 dangi disconnected
+16:48:31 dangi uses modified data file
+16:48:31 BattlEye Server: Player #33 dangi (87.10.114.107:61866) connected
+16:48:31 Player dangi connecting.
+16:48:32 BattlEye Server: Player #33 dangi - BE GUID: 26ef16a15a444feb6896d5572dfef889
+16:48:34 Player dangi connected (id=76561198156945781).
+16:48:34 BattlEye Server: Verified GUID (26ef16a15a444feb6896d5572dfef889) of player #33 dangi
+16:48:40 Player John Alecx disconnected.
+16:48:40 BattlEye Server: Player #14 John Alecx disconnected
+16:48:44 John Alecx uses modified data file
+16:48:45 BattlEye Server: Player #34 John Alecx (79.42.70.40:2304) connected
+16:48:45 Player John Alecx connecting.
+16:48:47 BattlEye Server: Player #34 John Alecx - BE GUID: ca3b46d4bb4caec498d538e976271465
+16:48:47 Player John Alecx connected (id=76561198388786429).
+16:48:47 BattlEye Server: Verified GUID (ca3b46d4bb4caec498d538e976271465) of player #34 John Alecx
+16:49:13 BattlEye Server: (Group) Matt Johnson: chiamo il medico?
+16:49:50 BattlEye Server: (Group) James Holland: respawna
+16:51:47 [Agente] Adam K! uses modified data file
+16:51:47 BattlEye Server: Player #35 [Agente] Adam K! (128.116.136.3:2304) connected
+16:51:47 Player [Agente] Adam K! connecting.
+16:51:49 BattlEye Server: Player #35 [Agente] Adam K! - BE GUID: 48fd8ff09cec81bd060f69ab3c375345
+16:51:49 Player [Agente] Adam K! connected (id=76561198202637044).
+16:51:49 BattlEye Server: Verified GUID (48fd8ff09cec81bd060f69ab3c375345) of player #35 [Agente] Adam K!
+16:52:13 Player dangi disconnected.
+16:52:13 BattlEye Server: Player #33 dangi disconnected
+16:54:06 BattlEye Server: (Direct) James Holland: rilogga ad athira
+16:59:19 Player Tommolo disconnected.
+16:59:19 BattlEye Server: Player #27 Tommolo disconnected
+17:02:08 BattlEye Server: (Direct) Mimmo La Rue: si fermi
+17:02:18 BattlEye Server: (Direct) Mimmo La Rue: NON SIAMO POLIZIOTTI 
+17:02:21 BattlEye Server: (Direct) Mimmo La Rue: STRUNZ FERMATI
+17:02:41 BattlEye Server: (Direct) Mimmo La Rue: non siamo pulotti
+17:09:32 LOLLETTO uses modified data file
+17:09:32 BattlEye Server: Player #36 LOLLETTO (2.199.234.80:33750) connected
+17:09:32 Player LOLLETTO connecting.
+17:09:34 BattlEye Server: Player #36 LOLLETTO - BE GUID: 4ef00e8a9402953bb33b81897bebfe28
+17:09:34 Player LOLLETTO connected (id=76561198834471725).
+17:09:34 BattlEye Server: Verified GUID (4ef00e8a9402953bb33b81897bebfe28) of player #36 LOLLETTO
+17:10:00 Player onehy disconnected.
+17:10:00 BattlEye Server: Player #28 onehy disconnected
+17:12:11 BattlEye Server: (Global) [Agente] Adam K!: o ma avete disingaggiato o no
+17:12:13 Player Tonygame is losing connection
+17:12:18 Player Tonygame disconnected.
+17:12:18 BattlEye Server: Player #32 Tonygame disconnected
+17:12:23 BattlEye Server: (Global) AVale69: BOH
+17:18:40 Clown Jos uses modified data file
+17:18:40 BattlEye Server: Player #37 Clown Jos (82.55.183.99:50258) connected
+17:18:40 Player Clown Jos connecting.
+17:18:41 BattlEye Server: Player #37 Clown Jos - BE GUID: a064299e83a8d8e8a82d72f3d1d64f35
+17:18:41 Player Clown Jos connected (id=76561198030961867).
+17:18:41 BattlEye Server: Verified GUID (a064299e83a8d8e8a82d72f3d1d64f35) of player #37 Clown Jos
+17:19:28 BattlEye Server: (Global) AVale69: saranno tutti nostri
+17:24:39 Player Mimmo La Rue disconnected.
+17:24:39 BattlEye Server: Player #10 Mimmo La Rue disconnected
+17:27:36 Player Luvia disconnected.
+17:27:36 BattlEye Server: Player #20 Luvia disconnected
+17:31:18 BattlEye Server: (Global) StitchLife: ragazzi c'e azione
+17:31:30 BattlEye Server: (Global) AVale69: non lo sapevo
+17:31:36 BattlEye Server: (Global) AVale69: scusatemi
+17:31:44 BattlEye Server: (Global) StitchLife: no problema
+17:31:57 BattlEye Server: (Global) StitchLife: il medico puo andare a tirarlo su?
+17:32:05 BattlEye Server: (Global) AVale69: grazie mille
+17:32:26 BattlEye Server: (Global) Clown Jos: Medico in arrivo
+17:34:51 BattlEye Server: (Global) AVale69: medico io sono vicino alla macchina della polizia
+17:37:25 BattlEye Server: (Group) James Holland: l'ho visto e li
+17:37:43 Player John Sasso disconnected.
+17:37:43 BattlEye Server: Player #15 John Sasso disconnected
+17:37:48 John Sasso uses modified data file
+17:37:48 BattlEye Server: Player #38 John Sasso (84.220.24.106:2304) connected
+17:37:48 Player John Sasso connecting.
+17:37:50 BattlEye Server: Player #38 John Sasso - BE GUID: f6e35f5f19cc067ce948e2de0caf28fa
+17:37:52 Player John Sasso connected (id=76561198840728201).
+17:37:52 BattlEye Server: Verified GUID (f6e35f5f19cc067ce948e2de0caf28fa) of player #38 John Sasso
+17:40:10 iLMalo YouTube uses modified data file
+17:40:10 BattlEye Server: Player #39 iLMalo YouTube (81.56.18.151:51946) connected
+17:40:10 Player iLMalo YouTube connecting.
+17:40:11 BattlEye Server: Player #39 iLMalo YouTube - BE GUID: e37d2ad2bdaec72745beeebae25e62a5
+17:40:23 Player iLMalo YouTube connected (id=76561198179955933).
+17:40:23 BattlEye Server: Verified GUID (e37d2ad2bdaec72745beeebae25e62a5) of player #39 iLMalo YouTube
+17:40:59 Thomas Smith uses modified data file
+17:41:00 BattlEye Server: Player #40 Thomas Smith (93.49.6.136:2304) connected
+17:41:00 Player Thomas Smith connecting.
+17:41:02 BattlEye Server: Player #40 Thomas Smith - BE GUID: aaa4c157ed823dfcf891b96cc548799a
+17:41:13 Player Thomas Smith connected (id=76561198168979244).
+17:41:13 BattlEye Server: Verified GUID (aaa4c157ed823dfcf891b96cc548799a) of player #40 Thomas Smith
+17:41:48 Player LOLLETTO disconnected.
+17:41:48 BattlEye Server: Player #36 LOLLETTO disconnected
+17:44:02 BattlEye Server: (Global) Matt Johnson: //c'è ancora azione, ho missclickato spazio e ha fatto richiesta, non ressare
+17:44:40 BattlEye Server: (Global) Clown Jos: ok
+17:52:24 BattlEye Server: (Global) Jotter: iL MALO non è RP
+17:52:32 BattlEye Server: (Global) Jotter: Perchè dovevi rovinare tutto
+17:52:37 BattlEye Server: (Global) Jotter: è No Fear
+17:53:38 BattlEye Server: (Global) Clown Jos: azione finita?
+17:53:41 BattlEye Server: (Global) Jotter: si
+17:53:48 BattlEye Server: (Global) Matt Johnson: no
+17:53:50 BattlEye Server: (Global) Clown Jos: arrivo
+17:53:52 BattlEye Server: (Global) Jotter: non è mai iniziata veramente
+17:54:00 BattlEye Server: (Global) Clown Jos: chi ha vinto?
+17:54:09 BattlEye Server: (Global) Jotter: clown ti stai confondento con 2 azioni diverse aspetta
+17:54:39 BattlEye Server: (Global) Clown Jos: devo ressare ILMalo?
+17:54:44 BattlEye Server: (Global) Jotter: si
+17:54:48 BattlEye Server: (Global) Clown Jos: ok
+17:54:50 BattlEye Server: (Global) AVale69: si vieni vieni
+17:57:48 BattlEye Server: (Global) StitchLife: medici rianimate i polizziotti
+17:58:18 Player StitchLife disconnected.
+17:58:18 BattlEye Server: Player #17 StitchLife disconnected
+17:58:25 BattlEye Server: (Direct) Clown Jos: azione Dionysios finita?
+18:00:35 BattlEye Server: (Global) Matt Johnson: medico finita
+18:00:47 BattlEye Server: (Global) Clown Jos: arrivo
+18:02:04 John John cacasbura uses modified data file
+18:02:04 BattlEye Server: Player #41 John John cacasbura (79.49.7.34:2304) connected
+18:02:04 Player John John cacasbura connecting.
+18:02:06 BattlEye Server: Player #41 John John cacasbura - BE GUID: b9bd68bcc52d16e196d4804b85955101
+18:02:06 Player John John cacasbura connected (id=76561198321481552).
+18:02:06 BattlEye Server: Verified GUID (b9bd68bcc52d16e196d4804b85955101) of player #41 John John cacasbura
+18:02:42 Player John John cacasbura disconnected.
+18:02:42 BattlEye Server: Player #41 John John cacasbura disconnected
+18:02:59 sansone23 uses modified data file
+18:03:00 BattlEye Server: Player #41 sansone23 (79.49.7.34:2304) connected
+18:03:00 Player sansone23 connecting.
+18:03:01 BattlEye Server: Player #41 sansone23 - BE GUID: b9bd68bcc52d16e196d4804b85955101
+18:03:01 Player sansone23 connected (id=76561198321481552).
+18:03:01 BattlEye Server: Verified GUID (b9bd68bcc52d16e196d4804b85955101) of player #41 sansone23
+18:03:37 BattlEye Server: (Global) James Holland: chi è che si connette col mio nome
+18:04:05 Player [Agente] Adam K! disconnected.
+18:04:05 BattlEye Server: Player #35 [Agente] Adam K! disconnected
+18:04:09 BattlEye Server: (Global) sansone23: ciao
+18:04:20 BattlEye Server: (Global) sansone23: ci siete ?ù
+18:04:25 BattlEye Server: (Global) James Holland: ciao cosa levati il mio nome
+18:04:30 BattlEye Server: (Global) sansone23: ????
+18:04:42 BattlEye Server: (Global) sansone23: che dici
+18:05:02 Player Sonny Clemenza disconnected.
+18:05:02 BattlEye Server: Player #30 Sonny Clemenza disconnected
+18:05:02 BattlEye Server: (Global) James Holland: so io sansone23 tu chi diavolo sei
+18:05:07 BattlEye Server: (Global) sansone23: ?
+18:05:11 BattlEye Server: (Global) sansone23: sono sansone
+18:05:21 BattlEye Server: (Global) sansone23: che vuoi
+18:05:34 BattlEye Server: (Global) James Holland: sì come no lo vedo da steam
+18:05:42 BattlEye Server: (Global) Jotter: Che dite se usiamo la chat globale per cose più serie
+18:05:52 BattlEye Server: (Global) sansone23: queste cose sono serie
+18:05:57 BattlEye Server: (Global) sansone23: mi sta rubando il nome
+18:06:10 BattlEye Server: (Global) sansone23: sto zulù
+18:06:12 BattlEye Server: (Global) James Holland: sì certo manco su discord sei 
+18:06:25 Player John Dick disconnected.
+18:06:25 BattlEye Server: Player #31 John Dick disconnected
+18:06:25 BattlEye Server: (Global) sansone23: ma non rompere e fammi giuocare
+18:06:32 BattlEye Server: (Global) AVale69: ma smettetela mi sembra di essere all'asilo
+18:06:36 BattlEye Server: (Global) Matt Johnson: per il medico che stava arrivando a rianimarmi, ho fatto per sbaglio respawn
+18:06:42 Tommolo uses modified data file
+18:06:43 BattlEye Server: Player #42 Tommolo (151.34.141.227:58901) connected
+18:06:43 Player Tommolo connecting.
+18:06:45 BattlEye Server: (Global) sansone23: ma io che devo fare se quello da fastidio
+18:06:46 BattlEye Server: Player #42 Tommolo - BE GUID: 356b7e7d92938b58734c1b010fc2e987
+18:06:46 Player Tommolo connected (id=76561198170008014).
+18:06:46 BattlEye Server: Verified GUID (356b7e7d92938b58734c1b010fc2e987) of player #42 Tommolo
+18:06:50 BattlEye Server: (Global) sansone23: bunnatelo
+18:06:54 BattlEye Server: (Global) AVale69: usate  sta chat per cose serie
+18:07:01 BattlEye Server: (Global) James Holland: l'asilo? se la gente si permette di piglia per il culo così veramente lasciamo sta guarda
+18:07:09 BattlEye Server: (Global) Clown Jos: ok, perchè erp qui...va be non fa nulla
+18:07:19 BattlEye Server: (Global) James Holland: no la globale no
+18:07:30 BattlEye Server: (Global) Matt Johnson: mi dispiace, se vuoi ti passo i soldi per il ress
+18:07:39 BattlEye Server: (Global) sansone23: holland smettila sta infastidendo tutti
+18:08:09 BattlEye Server: (Global) Clown Jos: ma scherzi? se vuoi fare una donazione ok, altrimenti non mi devi nulla XD
+18:10:10 BattlEye Server: (Global) sansone23: mi aiutate a giocare
+18:10:14 BattlEye Server: (Global) sansone23: sono stupido
+18:11:39 BattlEye Server: (Global) iLMalo YouTube: ciao sansone
+18:11:41 BattlEye Server: (Global) sansone23: ciao!
+18:11:47 BattlEye Server: (Global) James Holland: è fake
+18:11:55 BattlEye Server: (Global) sansone23: oo hai rotto 
+18:11:56 BattlEye Server: (Global) iLMalo YouTube: o_O
+18:12:34 Player Clown Jos is losing connection
+18:12:39 Player Clown Jos disconnected.
+18:12:39 BattlEye Server: Player #37 Clown Jos disconnected
+18:14:08 BattlEye Server: (Global) sansone23: come stai malo ?
+18:14:35 BattlEye Server: (Global) iLMalo YouTube: Tutto ok, è da un sacco che nn torno su arma a fare video
+18:14:51 BattlEye Server: (Global) sansone23: eh si
+18:16:06 Maschio uses modified data file
+18:16:06 BattlEye Server: Player #43 Maschio (2.197.106.130:34417) connected
+18:16:06 Player Maschio connecting.
+18:16:08 BattlEye Server: Player #43 Maschio - BE GUID: eda445955c761a49ee27d2df3ecd2de9
+18:16:22 Player Maschio connected (id=76561198031583822).
+18:16:22 BattlEye Server: Verified GUID (eda445955c761a49ee27d2df3ecd2de9) of player #43 Maschio
+18:16:52 BattlEye Server: (Direct) sansone23: salve
+18:18:34 BattlEye Server: (Global) sansone23: curriere
+18:19:03 Player Thomas Smith disconnected.
+18:19:03 BattlEye Server: Player #40 Thomas Smith disconnected
+18:20:36 BattlEye Server: (Global) sansone23: malo che hai combinato ?
+18:21:22 BattlEye Server: (Global) iLMalo YouTube: Lascia stare ...
+18:22:37 BattlEye Server: (Global) sansone23: c'è una fazione che recluta ? in discord ho lo stesso nome di arma
+18:27:25 alexa uses modified data file
+18:27:25 BattlEye Server: Player #44 alexa (101.56.214.2:1800) connected
+18:27:25 Player alexa connecting.
+18:27:27 BattlEye Server: Player #44 alexa - BE GUID: dbfd514d1360f96fa1020577e2675ddd
+18:27:27 Player alexa connected (id=76561198204764668).
+18:27:27 BattlEye Server: Verified GUID (dbfd514d1360f96fa1020577e2675ddd) of player #44 alexa
+18:27:34 BattlEye Server: (Global) sansone23: scrivetemi in dm se reclutate
+18:27:41 BattlEye Server: (Global) sansone23: stesso nome di arrma in discord
+18:27:42 Player alexa disconnected.
+18:27:42 BattlEye Server: Player #44 alexa disconnected
+18:27:52 BattlEye Server: (Global) James Holland: trolla di meno su
+18:28:00 BattlEye Server: (Global) sansone23: ma che cazzo vuoi
+18:28:17 BattlEye Server: (Global) sansone23: da quando sono entrato che ce l hai con me
+18:28:32 BattlEye Server: (Global) sansone23: chi ti conosce
+18:28:34 BattlEye Server: (Global) James Holland: ah io niente solo che stai dicendo cose paradossali
+18:28:41 BattlEye Server: (Global) sansone23: tipo ?
+18:28:59 BattlEye Server: (Global) James Holland: lascia stare va ahahahah
+18:29:04 BattlEye Server: (Global) sansone23: vabè
+18:29:07 BattlEye Server: (Global) sansone23: babbè
+18:29:12 Alessandro Lamanna uses modified data file
+18:29:13 BattlEye Server: Player #44 Alessandro Lamanna (101.56.214.2:1819) connected
+18:29:13 Player Alessandro Lamanna connecting.
+18:29:14 BattlEye Server: Player #44 Alessandro Lamanna - BE GUID: dbfd514d1360f96fa1020577e2675ddd
+18:29:14 Player Alessandro Lamanna connected (id=76561198204764668).
+18:29:14 BattlEye Server: Verified GUID (dbfd514d1360f96fa1020577e2675ddd) of player #44 Alessandro Lamanna
+18:30:32 BattlEye Server: (Global) sansone23: ci sono posti in pula ?
+18:31:55 BattlEye Server: (Global) Tommolo: lol
+18:32:01 BattlEye Server: (Global) sansone23: ma che faaa
+18:32:03 BattlEye Server: (Global) sansone23: ceh
+18:32:04 BattlEye Server: (Global) James Holland: apposto
+18:32:06 BattlEye Server: (Global) sansone23: xdxdxdx
+18:32:15 BattlEye Server: (Global) sansone23: pulotto stupido
+18:32:32 BattlEye Server: (Global) James Holland: detto da te poi ahahahaha
+18:33:17 BattlEye Server: (Global) sansone23: nel vdm
+18:33:20 BattlEye Server: (Global) sansone23: questo non è rp
+18:33:35 BattlEye Server: (Global) James Holland: sisi
+18:33:45 BattlEye Server: (Global) James Holland: te ne faccio un altro vdm se vuoi
+18:33:51 BattlEye Server: (Global) sansone23: si vai
+18:33:57 BattlEye Server: (Global) sansone23: così ti registro
+18:34:01 BattlEye Server: (Global) sansone23: e ti banno
+18:34:04 BattlEye Server: (Global) sansone23: ez ban
+18:34:15 BattlEye Server: (Global) James Holland: vai vai
+18:34:18 BattlEye Server: (Global) sansone23: vdm a caso
+18:34:40 BattlEye Server: (Global) James Holland: convinto fre
+18:34:50 BattlEye Server: (Global) Tommolo: ma in tutto cio quale dei due è il sansone vero
+18:34:53 BattlEye Server: (Global) James Holland: io
+18:34:59 BattlEye Server: (Global) sansone23: o
+18:35:00 BattlEye Server: (Global) James Holland: vieni in ds
+18:35:01 BattlEye Server: (Global) sansone23: ooo
+18:35:01 BattlEye Server: (Global) Tommolo: lol
+18:35:03 BattlEye Server: (Global) sansone23: iooo
+18:35:08 BattlEye Server: (Global) James Holland: tom che crasha 
+18:35:09 BattlEye Server: (Global) sansone23: sto cazzo di james
+18:35:53 BattlEye Server: (Global) sansone23: polizzioto
+18:35:58 BattlEye Server: (Global) sansone23: che fai
+18:38:07 BattlEye Server: (Global) Jotter: Polizia può ressare?
+18:38:12 BattlEye Server: (Global) James Holland: no
+18:38:15 BattlEye Server: (Global) Jotter: azz
+18:38:33 BattlEye Server: (Global) sansone23: ci sono gli admin?
+18:38:41 BattlEye Server: (Global) James Holland: no
+18:38:43 BattlEye Server: (Global) sansone23: che holland deve essere bannato
+18:38:51 BattlEye Server: (Global) sansone23: fa fail rp e vdm
+18:38:56 BattlEye Server: (Global) James Holland: certo aspetta che arrivo
+18:39:08 BattlEye Server: (Global) James Holland: così ti faccio anche rdm e ne aggiungiamo un'altra motivazione
+18:39:11 BattlEye Server: (Global) AVale69: se hai un video apri un ticket
+18:39:14 BattlEye Server: (Global) sansone23: vai continua 
+18:39:20 BattlEye Server: (Global) sansone23: ok grazie
+18:39:24 Player Alessandro Lamanna disconnected.
+18:39:24 BattlEye Server: Player #44 Alessandro Lamanna disconnected
+18:39:32 BattlEye Server: (Global) James Holland: vai in supporto arriva l'admin
+18:39:59 BattlEye Server: (Global) sansone23: come ti chiami in discord che la risolviamo in chat
+18:40:07 BattlEye Server: (Global) sansone23: chiamami tu sansone23 
+18:40:13 msi katana uses modified data file
+18:40:13 BattlEye Server: Player #44 msi katana (151.81.9.119:2304) connected
+18:40:13 Player msi katana connecting.
+18:40:14 BattlEye Server: Player #44 msi katana - BE GUID: ce76085ac30d5de378bab1f5e5aa5eba
+18:40:15 Player msi katana connected (id=76561198081019417).
+18:40:15 BattlEye Server: Verified GUID (ce76085ac30d5de378bab1f5e5aa5eba) of player #44 msi katana
+18:40:25 BattlEye Server: (Global) James Holland: come chiamo il mio stesso nome
+18:40:39 Player msi katana disconnected.
+18:40:39 BattlEye Server: Player #44 msi katana disconnected
+18:41:18 BattlEye Server: (Direct) sansone23: oo
+18:41:21 BattlEye Server: (Direct) sansone23: che minkia vuoi
+18:41:33 BattlEye Server: (Direct) sansone23: stupidino
+18:41:43 BattlEye Server: (Direct) sansone23: perchè mi arresti
+18:41:50 BattlEye Server: (Direct) sansone23: sto registrando
+18:42:28 BattlEye Server: (Direct) sansone23: ma perchè devi rompere
+18:42:33 BattlEye Server: (Direct) sansone23: te e sto cazzo di nome
+18:42:51 BattlEye Server: (Direct) sansone23: dici che il nome è tuo
+18:42:57 BattlEye Server: (Direct) sansone23: io ho sempre usato sansone23
+18:43:14 BattlEye Server: (Direct) sansone23: eh niente volevo salutarlo
+18:43:21 BattlEye Server: (Direct) sansone23: che gli devo fare
+18:43:31 BattlEye Server: (Direct) sansone23: vabbbene
+18:43:38 BattlEye Server: (Direct) sansone23: ok
+18:43:40 Player AVale69 is losing connection
+18:43:40 BattlEye Server: (Direct) sansone23: okk
+18:43:45 BattlEye Server: (Direct) sansone23: OKOKOKOK
+18:43:45 Player AVale69 disconnected.
+18:43:45 BattlEye Server: Player #5 AVale69 disconnected
+18:43:50 BattlEye Server: (Direct) sansone23: ssi
+18:43:53 Player Matt Johnson disconnected.
+18:43:53 BattlEye Server: Player #25 Matt Johnson disconnected
+18:43:54 BattlEye Server: (Direct) sansone23: va bn
+18:44:10 BattlEye Server: (Direct) sansone23: ao
+18:44:37 BattlEye Server: (Direct) sansone23: che guarda
+18:45:24 Player Jotter is losing connection
+18:45:24 AVale69 uses modified data file
+18:45:25 BattlEye Server: Player #44 AVale69 (101.58.214.45:2304) connected
+18:45:25 Player AVale69 connecting.
+18:45:26 BattlEye Server: Player #44 AVale69 - BE GUID: 460aa108782b99664048bb4cb597c71d
+18:45:29 Player Jotter disconnected.
+18:45:29 BattlEye Server: Player #13 Jotter disconnected
+18:45:29 Player AVale69 connected (id=76561198088387244).
+18:45:29 BattlEye Server: Verified GUID (460aa108782b99664048bb4cb597c71d) of player #44 AVale69
+18:45:44 Player sansone23 disconnected.
+18:45:44 BattlEye Server: Player #41 sansone23 disconnected
+18:46:20 Raudomanna uses modified data file
+18:46:20 BattlEye Server: Player #45 Raudomanna (79.49.7.34:2304) connected
+18:46:20 Player Raudomanna connecting.
+18:46:21 BattlEye Server: Player #45 Raudomanna - BE GUID: b9bd68bcc52d16e196d4804b85955101
+18:46:22 Player Raudomanna connected (id=76561198321481552).
+18:46:22 BattlEye Server: Verified GUID (b9bd68bcc52d16e196d4804b85955101) of player #45 Raudomanna
+18:47:35 Jotter uses modified data file
+18:47:36 BattlEye Server: Player #46 Jotter (5.94.129.165:2304) connected
+18:47:36 Player Jotter connecting.
+18:47:37 BattlEye Server: Player #46 Jotter - BE GUID: f52bd6a4a085691174e83db4579b6991
+18:47:45 BattlEye Server: (Global) Raudomanna: ciao
+18:47:48 Player Jotter connected (id=76561198141160415).
+18:47:48 BattlEye Server: Verified GUID (f52bd6a4a085691174e83db4579b6991) of player #46 Jotter
+18:47:53 BattlEye Server: (Global) Raudomanna: è bello sto server ?
+18:48:24 BattlEye Server: (Direct) Raudomanna: ilmalo ciaoo
+18:48:33 BattlEye Server: (Direct) iLMalo YouTube: sei tu????
+18:48:36 BattlEye Server: (Direct) Raudomanna: si
+18:48:38 BattlEye Server: (Direct) iLMalo YouTube: o_O?^
+18:48:50 BattlEye Server: (Direct) iLMalo YouTube: azz
+18:48:50 BattlEye Server: (Direct) Raudomanna: mo attacco il microfono
+18:49:04 BattlEye Server: (Direct) Raudomanna: si
+18:49:32 BattlEye Server: (Direct) Raudomanna: quel coglione
+18:49:51 BattlEye Server: (Direct) Raudomanna: che crasha sempre 
+18:49:55 BattlEye Server: (Direct) Raudomanna: o sanso
+18:50:16 BattlEye Server: (Global) Raudomanna: io respiro mentre palo
+18:50:23 BattlEye Server: (Direct) Raudomanna: ok
+18:50:36 BattlEye Server: (Global) AVale69: la possiamo smettere???
+18:50:44 Player Tommolo is losing connection
+18:50:49 Player Tommolo disconnected.
+18:50:49 BattlEye Server: Player #42 Tommolo disconnected
+18:55:12 Player John Sasso disconnected.
+18:55:12 BattlEye Server: Player #38 John Sasso disconnected
+18:55:35 BattlEye Server: (Global) Raudomanna: raudomanna on the place
+18:55:40 BattlEye Server: (Global) Raudomanna: in the builnding
+18:55

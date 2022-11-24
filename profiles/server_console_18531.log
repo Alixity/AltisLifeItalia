@@ -1,0 +1,67 @@
+﻿11:20:19 BattlEye Server: Initialized (v1.220, Arma 3 2.10.149954)
+11:20:19 Game Port: 2302, Steam Query Port: 2303
+11:20:19 Mission life.altis read from bank.
+11:20:19 Host identity created.
+11:20:19 BattlEye Server: Config entry: RConPassword BUSILY9cheesy2yodel
+11:20:19 BattlEye Server: Config entry: RConPort 2307
+11:20:19 BattlEye Server: RCon admin #0 (79.53.190.100:65434) logged in
+11:20:20 Roles assigned.
+11:20:20 Reading mission ...
+11:20:37 Mission read.
+11:20:37 Game started.
+11:22:49 kajos uses modified data file
+11:22:49 BattlEye Server: Player #0 kajos (91.66.247.141:2304) connected
+11:22:49 Player kajos connecting.
+11:22:49 BattlEye Server: Connected to BE Master
+11:22:51 BattlEye Server: Player #0 kajos - BE GUID: 68fa0a01d472b9ec739a9c2dc8da162a
+11:22:52 Player kajos connected (id=76561198101277076).
+11:22:52 BattlEye Server: Verified GUID (68fa0a01d472b9ec739a9c2dc8da162a) of player #0 kajos
+11:25:02 Gustavo Fringman uses modified data file
+11:25:02 BattlEye Server: Player #1 Gustavo Fringman (79.53.190.100:2304) connected
+11:25:02 Player Gustavo Fringman connecting.
+11:25:03 BattlEye Server: Player #1 Gustavo Fringman - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+11:25:04 Player Gustavo Fringman connected (id=76561198263498185).
+11:25:04 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #1 Gustavo Fringman
+11:25:06 Player kajos disconnected.
+11:25:06 BattlEye Server: Player #0 kajos disconnected
+11:30:30 mirec uses modified data file
+11:30:30 BattlEye Server: Player #2 mirec (178.39.148.73:2304) connected
+11:30:30 Player mirec connecting.
+11:30:32 BattlEye Server: Player #2 mirec - BE GUID: 749d0cb0c527408077b5a08e2790913a
+11:30:33 Player mirec connected (id=76561198126581924).
+11:30:33 BattlEye Server: Verified GUID (749d0cb0c527408077b5a08e2790913a) of player #2 mirec
+11:31:59 Player mirec disconnected.
+11:31:59 BattlEye Server: Player #2 mirec disconnected
+11:38:09 Ivan Santos uses modified data file
+11:38:09 BattlEye Server: Player #2 Ivan Santos (188.9.113.80:2304) connected
+11:38:09 Player Ivan Santos connecting.
+11:38:13 BattlEye Server: Player #2 Ivan Santos - BE GUID: bc8d1346d31d1dc3468e4abaa6c6e878
+11:38:13 Player Ivan Santos connected (id=76561198160586998).
+11:38:13 BattlEye Server: Verified GUID (bc8d1346d31d1dc3468e4abaa6c6e878) of player #2 Ivan Santos
+11:38:49 AVale69 uses modified data file
+11:38:49 BattlEye Server: Player #3 AVale69 (101.58.214.45:2304) connected
+11:38:49 Player AVale69 connecting.
+11:38:50 BattlEye Server: Player #3 AVale69 - BE GUID: 460aa108782b99664048bb4cb597c71d
+11:38:53 Player AVale69 connected (id=76561198088387244).
+11:38:53 BattlEye Server: Verified GUID (460aa108782b99664048bb4cb597c71d) of player #3 AVale69
+11:48:26 BattlEye Server: (Global) AVale69: salve
+12:01:55 Luvia uses modified data file
+12:01:55 BattlEye Server: Player #4 Luvia (130.25.105.115:2304) connected
+12:01:55 Player Luvia connecting.
+12:01:57 BattlEye Server: Player #4 Luvia - BE GUID: dfd21646807e3226af7bfcad1f8f122c
+12:01:57 Player Luvia connected (id=76561198019287264).
+12:01:57 BattlEye Server: Verified GUID (dfd21646807e3226af7bfcad1f8f122c) of player #4 Luvia
+12:04:16 Matthew Morris uses modified data file
+12:04:16 BattlEye Server: Player #5 Matthew Morris (185.156.194.51:2304) connected
+12:04:16 Player Matthew Morris connecting.
+12:04:18 BattlEye Server: Player #5 Matthew Morris - BE GUID: faffa79e7c4ce6546cb9c4a3fba57d42
+12:04:19 Player Matthew Morris connected (id=76561198285531385).
+12:04:19 BattlEye Server: Verified GUID (faffa79e7c4ce6546cb9c4a3fba57d42) of player #5 Matthew Morris
+12:06:08 StitchLife uses modified data file
+12:06:08 BattlEye Server: Player #6 StitchLife (79.41.238.20:2304) connected
+12:06:08 Player StitchLife connecting.
+12:06:09 BattlEye Server: Player #6 StitchLife - BE GUID: 08a00827be9d55adda4acf5f2d0d08bc
+12:06:12 Player StitchLife connected (id=76561198030673345).
+12:06:12 BattlEye Server: Verified GUID (08a00827be9d55adda4acf5f2d0d08bc) of player #6 StitchLife
+12:08:26 Player Luvia disconnected.
+12:08:26 BattlEye Server: Playe

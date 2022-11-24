@@ -1,0 +1,55 @@
+﻿23:26:02 BattlEye Server: Initialized (v1.220, Arma 3 2.10.149954)
+23:26:02 Game Port: 2302, Steam Query Port: 2303
+23:26:02 Mission life.altis read from bank.
+23:26:03 Host identity created.
+23:26:03 BattlEye Server: Config entry: RConPassword testtest1234
+23:26:03 BattlEye Server: Config entry: RConPort 2307
+23:26:03 Roles assigned.
+23:26:03 Reading mission ...
+23:26:22 Mission read.
+23:26:22 Game started.
+23:26:38 Alixity uses modified data file
+23:26:38 BattlEye Server: Player #0 Alixity (31.190.114.25:2304) connected
+23:26:38 Player Alixity connecting.
+23:26:38 BattlEye Server: Connected to BE Master
+23:26:40 BattlEye Server: Player #0 Alixity - BE GUID: 8bd6bebb1582aa564523b41af9bba3ea
+23:26:41 Player Alixity connected (id=76561198294782268).
+23:26:41 BattlEye Server: Verified GUID (8bd6bebb1582aa564523b41af9bba3ea) of player #0 Alixity
+23:39:47 Player Alixity disconnected.
+23:39:47 BattlEye Server: Player #0 Alixity disconnected
+23:40:56 StitchLife uses modified data file
+23:40:56 BattlEye Server: Player #0 StitchLife (95.248.238.250:2304) connected
+23:40:56 Player StitchLife connecting.
+23:40:57 BattlEye Server: Player #0 StitchLife - BE GUID: 08a00827be9d55adda4acf5f2d0d08bc
+23:40:59 Player StitchLife connected (id=76561198030673345).
+23:40:59 BattlEye Server: Verified GUID (08a00827be9d55adda4acf5f2d0d08bc) of player #0 StitchLife
+23:42:36 Alixity uses modified data file
+23:42:36 BattlEye Server: Player #1 Alixity (31.190.114.25:2304) connected
+23:42:36 Player Alixity connecting.
+23:42:39 BattlEye Server: Player #1 Alixity - BE GUID: 8bd6bebb1582aa564523b41af9bba3ea
+23:42:40 Player Alixity connected (id=76561198294782268).
+23:42:40 BattlEye Server: Verified GUID (8bd6bebb1582aa564523b41af9bba3ea) of player #1 Alixity
+23:49:43 BattlEye Server: (Direct) StitchLife: non 
+23:49:47 BattlEye Server: (Direct) StitchLife: so che altro fa
+23:49:55 BattlEye Server: (Direct) Alixity: aspetta sto guardando qualcosa io
+23:59:02 Player StitchLife disconnected.
+23:59:02 BattlEye Server: Player #0 StitchLife disconnected
+ 0:01:00 StitchLife uses modified data file
+ 0:01:00 BattlEye Server: Player #2 StitchLife (95.248.238.250:2304) connected
+ 0:01:00 Player StitchLife connecting.
+ 0:01:02 BattlEye Server: Player #2 StitchLife - BE GUID: 08a00827be9d55adda4acf5f2d0d08bc
+ 0:01:03 Player StitchLife connected (id=76561198030673345).
+ 0:01:03 BattlEye Server: Verified GUID (08a00827be9d55adda4acf5f2d0d08bc) of player #2 StitchLife
+ 0:04:44 Player StitchLife disconnected.
+ 0:04:44 BattlEye Server: Player #2 StitchLife disconnected
+ 0:13:52 adly96 uses modified data file
+ 0:13:52 BattlEye Server: Player #2 adly96 (79.51.2.65:2304) connected
+ 0:13:52 Player adly96 connecting.
+ 0:13:54 BattlEye Server: Player #2 adly96 - BE GUID: a83ddb66a943d4d9af8056499df3f1d8
+ 0:13:54 Player adly96 connected (id=76561198263498185).
+ 0:13:54 BattlEye Server: Verified GUID (a83ddb66a943d4d9af8056499df3f1d8) of player #2 adly96
+ 0:57:08 Player adly96 disconnected.
+ 0:57:08 BattlEye Server: Player #2 adly96 disconnected
+ 1:12:37 Player Alixity disconnected.
+ 1:12:37 BattlEye Server: Player #1 Alixity disconnected
+ 2:38:15 

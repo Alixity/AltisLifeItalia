@@ -1,0 +1,127 @@
+armi={
+    "hgun_Rook40_F":35000,
+    "hgun_Pistol_heavy_02_F":40000,
+    "hgun_ACPC2_F":45000,
+    "arifle_SDAR_F":65000,
+    "hgun_PDW2000_F":75000,
+    "sgun_HunterShotgun_01_F":100000,
+    "sgun_HunterShotgun_01_sawedoff_F":100000,
+    "arifle_AKS_F":275000,
+    "arifle_TRG20_F":300000,
+    "arifle_Mk20_plain_F":330000,
+    "arifle_TRG21_F":300000,
+    "SMG_01_F":200000,
+    "SMG_02_F":200000,
+    "SMG_05_F":200000,
+    "SMG_03C_TR_black":200000,
+    "SMG_03_black":200000,
+    "SMG_03C_black":200000,
+    "arifle_MX_F":400000,
+    "arifle_MXC_Black_F":400000,
+    "arifle_MX_Black_F":400000,
+    "arifle_ARX_blk_F":400000,
+    "arifle_SPAR_01_blk_F":400000,
+    "arifle_MX_SW_F":400000,
+    "arifle_MX_SW_Black_F":400000,
+    "arifle_SPAR_02_blk_F":400000,
+    "arifle_CTAR_blk_F":400000,
+    "arifle_Katiba_F":400000
+}
+
+licenze={
+    "[`license_civ_driver`,1]":1000,
+    "[`license_civ_boat`,1]":1000,
+    "[`license_civ_pilot`,1]":45000,
+    "[`license_civ_trucking`,1]":50000,
+    "[`license_civ_gun`,1]":65000,
+    "[`license_civ_dive`,1]":6000,
+    "[`license_civ_home`,1]":250000,
+    "[`license_civ_oil`,1]":40000,
+    "[`license_civ_diamond`,1]":120000,
+    "[`license_civ_salt`,1]":70000,
+    "[`license_civ_sand`,1]":35000,
+    "[`license_civ_iron`,1]":30000,
+    "[`license_civ_copper`,1]":10000,
+    "[`license_civ_cement`,1]":20000,
+    "[`license_civ_medmarijuana`,1]":15000,
+    "[`license_civ_cocaine`,1]":250000,
+    "[`license_civ_heroin`,1]":140000,
+    "[`license_civ_marijuana`,1]":120000,
+    "[`license_civ_illegalguns`,1]":800000
+}
+
+
+veicoli={
+    "B_CTRG_LSV_01_light_F": 0,
+    "B_CTRG_Heli_Transport_01_tropic_F": 0,
+    "C_Boat_Transport_02_F": 35000,
+    "C_Offroad_02_unarmed_F": 20000,
+    "C_Plane_Civil_01_F": 100000,
+    "C_Scooter_Transport_01_F": 35000,
+    "O_T_LSV_02_unarmed_F": 100000,
+    "I_Truck_02_medical_F": 25000,
+    "O_Truck_03_medical_F": 45000,
+    "B_Truck_01_medical_F": 60000,
+    "C_Rubberboat": 5000,
+    "B_Heli_Transport_01_F": 200000,
+    "B_MRAP_01_hmg_F": 750000,
+    "B_Boat_Armed_01_minigun_F": 75000,
+    "B_Boat_Transport_01_F": 30000,
+    "O_Truck_03_transport_F": 350000,
+    "O_Truck_03_device_F": 200000,
+    "Land_CargoBox_V1_F": 1,
+    "Box_IND_Grenades_F": 1,
+    "B_supplyCrate_F": 1,
+    "B_G_Offroad_01_F": 12500,
+    "B_G_Offroad_01_armed_F": 750000,
+    "C_Boat_Civil_01_F": 35000,
+    "C_Boat_Civil_01_police_F": 35000,
+    "B_Truck_01_box_F": 450000,
+    "B_Truck_01_transport_F": 370000,
+    "O_MRAP_02_F": 150000,
+    "C_Offroad_01_F": 15000,
+    "C_Kart_01_Blu_F": 15000,
+    "C_Kart_01_Fuel_F": 15000,
+    "C_Kart_01_Red_F": 1500,
+    "C_Kart_01_Vrana_F": 1500,
+    "C_Hatchback_01_sport_F": 25000,
+    "B_Quadbike_01_F": 4000,
+    "I_Truck_02_covered_F": 130000,
+    "I_Truck_02_transport_F": 110000,
+    "O_Truck_03_covered_F": 390000,
+    "C_Hatchback_01_F": 15000,
+    "C_SUV_01_F": 20000,
+    "C_Van_01_transport_F": 47000,
+    "C_Van_01_box_F": 60000,
+    "B_MRAP_01_F": 30000,
+    "B_Heli_Light_01_stripped_F": 275000,
+    "B_Heli_Light_01_F": 200000,
+    "C_Heli_Light_01_civil_F": 140000,
+    "O_Heli_Light_02_unarmed_F": 300000,
+    "I_C_Heli_Light_01_civil_F": 300000,
+    "O_Heli_Transport_04_F": 300000,
+    "O_Heli_Transport_04_bench_F": 300000,
+    "I_Heli_light_03_unarmed_F": 300000,
+    "B_SDV_01_F": 30000,
+    "C_Van_01_fuel_F": 70000,
+    "I_Truck_02_fuel_F": 130000,
+    "B_Truck_01_fuel_F": 190000,
+    "B_Heli_Transport_03_F":1000000,
+    "O_T_LSV_02_unarmed_black_F":100000
+}
+
+
+#this list is built in this way
+#   number of crates (int) : cost of home   
+houses={
+    1:2000000,
+    2:2500000,
+    3:3500000,
+    4:4000000
+}
+
+
+containers={
+    "Box_IND_Grenades_F":75000,
+    "B_supplyCrate_F":150000
+}
